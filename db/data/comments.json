@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "8a5c1d5baaaaa214360dc058",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1d5b0190b214360dc057",
+        "post": "5c8a1d5b0190b666660dc058" 
+    },
+    {
+        "_id": "8a5c1d5baaaaa214360dc059",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660dc058" 
+    },
+    {
+        "_id": "8a5c1d5baaaaa214360dc088",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1ec62f8fb814b56fa183",
+        "post": "5c8a1d5b0190b666660dc058" 
+    },
+    {
+        "_id": "8a5c1d5baaaaa214360dc089",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660dc058" 
+    },
+    {
+        "_id": "8a5c1d5baaaaa214360dc060",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1f292f8fb814b56fa187",
+        "post": "5c8a1d5b0190b666660dc059" 
+    },
+     {
+        "_id": "8a5c1d5baaaaa214360dc061",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660dc062" 
+    },
+    {
+        "_id": "8a5c1d5baaaaa214360dc062",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660dc060"  
+    },
+     {
+        "_id": "8a5c1d5baaaaa214360dc063",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660dc061"  
+    },
+     {
+        "_id": "8a5c1d5baaaaa214360dc064",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660dc058" 
+    },
+    {
+        "_id": "8a5c1d5baaaaa214360dc065",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660d1111" 
+    },
+     {
+        "_id": "8a5c1d5baaaaa214360dc066",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660d1112"  
+    },
+    {
+        "_id": "8a5c1d5baaaaa214360dc067",
+        "content": "sugoi",
+        "created_at": "2023-01-28T09:00:00.000Z",
+        "author": "5c8a1dfa2f8fb814b56fa181",
+        "post": "5c8a1d5b0190b666660d1113" 
+    }
+]

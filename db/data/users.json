@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "5c8a1d5b0190b214360dc057",
+        "name": "loiin",
+        "email": "loiin@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "super-admin",
+        "avatar": "sadmin.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1dfa2f8fb814b56fa181",
+        "name": "khang-mai",
+        "email": "khang-mai@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "admin",
+        "avatar": "admin.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1e1a2f8fb814b56fa182",
+        "name": "khanh-nguyen",
+        "email": "khanh-nguyen@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "admin",
+        "avatar": "admin.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1ec62f8fb814b56fa183",
+        "name": "hung-truong",
+        "email": "hung-truong@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "admin",
+        "avatar": "admin.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1f292f8fb814b56fa184",
+        "name": "ngan-nguyen",
+        "email": "ngan-nguyen@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "admin",
+        "avatar": "admin.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1ec62f8fb814b56fa185",
+        "name": "david",
+        "email": "david@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "user",
+        "avatar": "user.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1f292f8fb814b56fa186",
+        "name": "roloes",
+        "email": "roles@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "user",
+        "avatar": "user.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1ec62f8fb814b56fa188",
+        "name": "harry",
+        "email": "harry@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "user",
+        "avatar": "user.jpg",
+        "status": true
+    },
+    {
+        "_id": "5c8a1f292f8fb814b56fa187",
+        "name": "oetwa",
+        "email": "oetwa@gmail.com",
+        "password": "abcd1234",
+        "password_confirm": "abcd1234",
+        "role": "user",
+        "avatar": "user.jpg",
+        "status": true
+    }
+]

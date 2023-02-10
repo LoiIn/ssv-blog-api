@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "8a5c1d5b0190b214360dc057",
+        "name": "Travel",
+        "slug": "travel"
+    },
+     {
+        "_id": "8a5c1d5b0190b214360dc058",
+        "name": "News",
+        "slug": "news"
+    },
+    {
+        "_id": "8a5c1d5b0190b214360dc059",
+        "name": "Sports",
+        "slug": "sports"
+    },
+     {
+        "_id": "8a5c1d5b0190b214360dc060",
+        "name": "Weather",
+        "slug": "weather"
+    },
+    {
+        "_id": "8a5c1d5b0190b214360dc061",
+        "name": "Education",
+        "slug": "educations"
+    }
+]
