@@ -27,9 +27,7 @@ const createToken = (user, statusCode, res) => {
   res.status(statusCode).json({
     status: "success",
     token,
-    data: {
-      user,
-    },
+    data: user,
   });
 };
 
@@ -66,7 +64,7 @@ exports.login = catchAsync(async (req, res, next) => {
 
 // logout
 exports.logout = (req, res) => {
-  res.cookie("jwt", "loggedout", {
+  res.cookie("jwt", "", {
     expires: new Date(Date.now() + 10 * 1000),
     httpOnly: true,
   });
